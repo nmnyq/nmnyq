@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nmnyq
+- 👋 Hi, I’m Nyasha
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics with ALX
 - 💞️ I’m looking to collaborate on any project
